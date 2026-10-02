@@ -308,7 +308,11 @@ intro = "Awesome [Restic](https://restic.net) related projects."
 
 [[sections]]
   name = "Commercial"
-
+  
+  [[sections.items]]
+    name = "ServerCrate"
+    url = "https://servercrate.net"
+    
   [[sections.items]]
     name = "Relica Backup"
     url = "https://relicabackup.com"
